@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog Drużyny Wojów Sambora`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Bractwo Księcia Sambora`,
+      summary: `bijące się za Pomorze!`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Oficjalny blog bractwa rycerskiego Drużyna Wojów Sambora`,
+    siteUrl: `https://sambor-blog.pl/`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `druzynasambora`,
     },
   },
   plugins: [
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Newsletter",
           },
         ],
       },
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Blog Drużyny Wojów Sambora`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
