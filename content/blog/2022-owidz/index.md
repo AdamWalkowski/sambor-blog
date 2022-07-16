@@ -1,7 +1,7 @@
 ---
-title: Owidz 2022
+title: Wianki w Owidzu 2022
 date: "2022-07-01T00:49:22.284Z"
-description: "Relacja z Wianków na Owidzu"
+description: "Relacja z Nocy Kupały na grodzisku w Owidzu"
 picture: "./images/2022-sambor-owidz-007.jpeg"
 ---
 
